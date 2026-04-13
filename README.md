@@ -61,7 +61,7 @@ To run this simulation on your own machine, you will need Python installed.
 
 **1. Clone the repository**
 ~~~bash
-git clone https://github.com/mohd-ayan-dev/fintech-transaction-sim.git
+git clone https://github.com/mohdayandev/fintech-transaction-sim.git
 cd fintech-transaction-sim
 ~~~
 
